@@ -1,0 +1,17 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Large ML files
+bert_model/
+IMDB Dataset.csv
+
+# Training artifacts
+checkpoint-*
+runs/
+
+# VS Code
+.vscode/
