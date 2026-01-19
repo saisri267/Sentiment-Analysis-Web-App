@@ -158,7 +158,3 @@ To use the BERT model:
 
 ---
 
-
-
-```
-```
