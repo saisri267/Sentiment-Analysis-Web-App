@@ -1,4 +1,4 @@
-````md
+
 # Sentiment Analysis Web App (Naive Bayes vs BERT)
 
 This project is a full-stack AIML web application that performs sentiment analysis on text input using two different approaches:
